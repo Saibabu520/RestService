@@ -1,7 +1,7 @@
 package com.cvl.regression.commons;
 
 /**
- * The class which contains all the required constants.
+ * The class which will contains all the required constants.
  * 
  * @author Saibabu Guntur
  * @Version 1.0.
