@@ -1,14 +1,14 @@
 package com.cvl.regression.commons;
 
 /**
- * The class which will contains all the required constants.
+ * The class which contains all the required constants.
  * 
  * @author Saibabu Guntur
  * @Version 1.0.
 */
 public class ConstantsUtil {
 
-  // Status related constants.
+  //Status related constants.
   public static final String SUCCESS = "Success";
   public static final String FAILURE = "Failure";
   
